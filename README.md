@@ -30,18 +30,20 @@ IZHODI:
 |M1           |           M1 |  1              |    Zagon         |
 
 ## VEZALNA SHEMA
-(![image](https://github.com/MarkRobek969/Zascitno-vziganje-motorja/assets/167552320/af4f1efa-1734-472c-be5e-3dd76a45fb3f)
-)
+![image](https://github.com/MarkRobek969/Zascitno-vziganje-motorja/assets/167552320/10041abe-b1d9-4761-9c3f-e5204bafbd15)
+
+
  ## VEZAVA
 ![20240611_110041](https://github.com/MarkRobek969/Zascitno-vziganje-motorja/assets/167552320/9a0728aa-8972-4fb0-90dc-ab6ffa46be77)
 
 ## VIDEO
 https://github.com/MarkRobek969/Zascitno-vziganje-motorja/assets/167552320/fbe56b31-1b46-4003-a77a-69bf036a68ad
 ## KOMENTAR
-Vezje za zascitno vziganje motorja uporablja za prikaz delovanja DC motorja zeleno LED diodo. Diodo sva uporabila namesto motorja, ker Arduino UNO iz neznanega razloga ni bil zmozen pognati DC motorja. Uporabljena je zgolj za simulacijo delovanja. 
+Vezje za zascitno vziganje motorja uporablja za prikaz delovanja DC motorja zeleno LED diodo. Diodo sva uporabila namesto motorja, ker Arduino UNO iz neznanega razloga ni bil zmozen pognati DC motorja. Uporabljena je zgolj za simulacijo delovanja. Simulacija v programu Tinkercad deluje brez napak.
 ### Mozne izboljsave:
 + Uporaba LED diod za prikaz polozaja kljuca (leva in desna)
 + Uporaba RFID kartice namesto skrivnega stikala
 ### Opombe:
-+
++ Uporaba LED diode namesto DC motorja
++ Simulacija deluje v programu Tinkercad
 
