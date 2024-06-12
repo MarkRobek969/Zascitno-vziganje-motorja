@@ -1,5 +1,5 @@
 # Zascitno-vziganje-motorja
-Zascitno vziganje avtom. motorja: Ko obrnemo kljuc v desno (simuliramo s tipko), se sklene kontakt A(DESNO), ki aktivira zaganjalnik (motor). Pogoj za to pa je, da je vklopljeno skrivno stikalo B(SW1). Zaganjalnika tudi ni mogoce pognati, ce motor ze tece, kar zazna senzor M(SW2) (uporabite se eno stikalo).
+Zascitno vziganje avtom. motorja: Ko obrnemo kljuc v desno (simuliramo s tipko), se sklene kontakt A(DESNA), ki aktivira zaganjalnik (motor). Pogoj za to pa je, da je vklopljeno skrivno stikalo B(SW1). Zaganjalnika tudi ni mogoce pognati, ce motor ze tece, kar zazna senzor M(SW2) (uporabite se eno stikalo).
 
 ## KOSOVNICA
 | Element     | Količina     |               
