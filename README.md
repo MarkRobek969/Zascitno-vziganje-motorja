@@ -30,7 +30,8 @@ IZHODI:
 |M1           |           M1 |  1              |    Zagon         |
 
 ## VEZALNA SHEMA
-![image](https://github.com/MarkRobek969/Zascitno-vziganje-motorja/assets/167552320/10041abe-b1d9-4761-9c3f-e5204bafbd15)
+![image](https://github.com/MarkRobek969/Zascitno-vziganje-motorja/assets/167552320/268fbb41-b512-421a-96a1-f288432c06a6)
+
 
 
  ## VEZAVA
